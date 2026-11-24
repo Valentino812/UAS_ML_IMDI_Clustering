@@ -1,0 +1,3 @@
+algoritma,konfigurasi,jumlah_cluster,observasi_dievaluasi,noise,coverage_percent,silhouette_score,davies_bouldin_index
+OPTICS,min_samples=10,3,55,459,10.700389105058365,0.6462007366987577,0.42754850323674115
+Spectral Clustering,k=2,2,514,0,100.0,0.3645885608069047,1.1302137613995455

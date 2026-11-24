@@ -1,0 +1,6 @@
+min_samples,jumlah_cluster,jumlah_noise,noise_percent,cluster_coverage_percent,observasi_evaluasi,silhouette_score,davies_bouldin_index,ukuran_cluster,status_evaluasi
+10,3,459,89.29961089494164,10.700389105058365,55,0.6462007366987577,0.42754850323674115,"{0: 13, 1: 16, 2: 26}",OK
+20,1,0,0.0,100.0,514,,,{0: 514},Metrik tidak terdefinisi: diperlukan minimal dua cluster setelah noise OPTICS dikeluarkan (jika ignore_noise=True).
+30,1,0,0.0,100.0,514,,,{0: 514},Metrik tidak terdefinisi: diperlukan minimal dua cluster setelah noise OPTICS dikeluarkan (jika ignore_noise=True).
+40,1,0,0.0,100.0,514,,,{0: 514},Metrik tidak terdefinisi: diperlukan minimal dua cluster setelah noise OPTICS dikeluarkan (jika ignore_noise=True).
+50,1,0,0.0,100.0,514,,,{0: 514},Metrik tidak terdefinisi: diperlukan minimal dua cluster setelah noise OPTICS dikeluarkan (jika ignore_noise=True).

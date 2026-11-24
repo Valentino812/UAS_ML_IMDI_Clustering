@@ -1,0 +1,5 @@
+,Akses dan Adopsi Teknologi Digital,Akses dan Adopsi Teknologi Digital,Akses dan Adopsi Teknologi Digital,Akses dan Adopsi Teknologi Digital,Literasi Digital Dasar,Literasi Digital Dasar,Literasi Digital Dasar,Literasi Digital Dasar,Ritel/E-Commerce,Ritel/E-Commerce,Ritel/E-Commerce,Ritel/E-Commerce
+,count,mean,median,std,count,mean,median,std,count,mean,median,std
+cluster_label,,,,,,,,,,,,
+Cluster 0,189,50.71480529100529,51.0459,10.707289033806944,189,46.79068848270208,46.0061,9.963210245743978,189,30.76437804557577,31.3125,12.968528592894986
+Cluster 1,325,64.3592683076923,64.7197,7.773624900657485,325,59.07975899614452,58.25,8.801812611825378,325,54.83430429852559,55.3824,9.920641408335912
