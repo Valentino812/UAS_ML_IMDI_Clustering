@@ -1,9 +1,16 @@
 min_samples,cluster,jumlah_kabupaten_kota
+5,Noise (-1),435
+5,Cluster 0,19
+5,Cluster 1,14
+5,Cluster 2,16
+5,Cluster 3,10
+5,Cluster 4,20
 10,Noise (-1),459
 10,Cluster 0,13
 10,Cluster 1,16
 10,Cluster 2,26
+15,Noise (-1),474
+15,Cluster 0,29
+15,Cluster 1,11
 20,Cluster 0,514
-30,Cluster 0,514
-40,Cluster 0,514
-50,Cluster 0,514
+25,Cluster 0,514
